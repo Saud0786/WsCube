@@ -1,0 +1,217 @@
+*{
+  font-family: "Inter", sans-serif;
+}
+
+.whatsappbtn{
+  color: #27AE60;
+  padding: 10px 18px;
+  border: 1px solid #27AE60;
+  font-size: 16px;
+}
+.whatsappbtn i{
+  margin-right: 10px;
+}
+.whatsappbtn:hover{
+  border: 1px solid #27AE60;
+}
+
+.call1{
+  padding: 10px 18px;
+  color: white;
+  background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+.bannerContent h1{
+   font-weight: 700;
+   font-size: 52px; 
+}
+.bannerContent span{
+  color: #2699FB;
+  background: url(../image/Vector\ 63.png) no-repeat bottom;
+}
+.bannerContent p{
+  font-weight: 400px;
+  font-size: 22px;
+}
+.bannerContent ul{
+  list-style: none;
+}
+.bannerContent ul li{
+  font-size:22px;
+}
+.bannerContent ul li i{
+  color: #2699FB;
+}
+.bannerbtn{
+  width: 50%;
+}
+.bannerContentbtn button:first-child{
+  background: linear-gradient(to right,#0ACEFE,#2699FB);
+  height: 60px;
+  width: 278px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 10px 10px 15px rgba(6, 149, 252, 0.3);
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+}
+.bannerContentbtn button:last-child{
+  height: 60px;
+  width: 278px;
+  border: 1px solid rgb(214, 214, 214);
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  color: #111;
+  font-size: 18px;
+  font-weight: 500;
+}
+.bannerForm{
+  padding: 40px;
+}
+.bannerForm h3{
+  font-size: 18px;
+  font-weight: 700;
+}
+.registerbtn{
+  width: 100%;
+  background: linear-gradient(to right,#0ACEFE,#2699FB);
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+}
+.information h2{
+  font-size: 30px;
+  font-family: 700;
+  color: #2699FB;
+}
+.information p{
+  font-size: 16px;
+  font-family: 400;
+  line-height: 24px;
+}
+.highlight-section{
+  background-color: #e7effe;
+}
+.highlight-section h2{
+   color: #0A2134;
+   font-size: 36px;
+   font-family: 700;
+}
+.highlight-section p{
+  color: #0A2134;
+  font-size: 18px;
+}
+.highlightItems{
+  border-radius: 10px;
+}
+.highlightItems h5{
+  font-size: 20px;
+  font-weight: 600;
+}
+.highlightItems p{
+  font-size: 15px;
+}
+.freeclassBtn{
+  background: linear-gradient(to right,#4badd3,#b426fb) !important;
+  height: 60px;
+  width: 278px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 10px 10px 15px rgba(6, 149, 252, 0.3);
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.section-content{
+  color: #0A2134;
+}
+.section-content h1{
+ font-size: 44px;
+ font-weight: 700;
+}
+.section-content p{
+ font-size: 18px;
+}
+
+.certificate-section{
+  background-color: #F7FAFF;
+ }
+ .certificate-section h1{
+   font-size: 36px;
+   font-weight: 700;
+   color: #0A2134;
+ }
+ .certificate-section h4{
+  font-size: 20px;
+  font-weight: 600;
+  color: #0A2134;
+ }
+ 
+ .send {
+    font-size: 50px;
+ }
+.freeclassBtn{
+background: linear-gradient(to right,#0ACEFE,#2699FB);
+height: 60px;
+width: 278px;
+border: none;
+border-radius: 10px;
+box-shadow: 10px 10px 15px rgba(6, 149, 252, 0.3);
+color: #fff;
+font-size: 20px;
+font-weight: 700;
+}
+.certificate-corner{
+  background: url(../image/dot.png) no-repeat 50px 30px,
+  url(../image/Ellipse\ 94.png) no-repeat 370px 480px;
+}
+
+.digital-marketing ul li{
+  list-style: none;
+}
+.digital-marketing ul li i{
+   color: #0ACEFE;
+}
+
+#navbarSupportedContent ul li a{
+  font-weight: 600;
+  margin-right: 30px;
+}
+.tabMySystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+     background-color: #F2F4F7;
+     color: #111;
+     border-radius: 0px;
+     border-bottom: 2px solid blue;
+}
+header {
+  z-index: 1030; 
+}
+.digital-section h5{
+  font-size: 18px;
+  font-weight: 600;
+}
+.digital-section p{
+  font-size: 14px;
+}
+.grow{
+   line-height:0.5;
+}
+.ready-start{
+  background: linear-gradient(to right,#41cef2,#6226fb); 
+  color: white;
+}
+footer span{
+  text-decoration: underline;
+}
+footer{
+  background-color: #0A2540;
+  color: white;
+}
+
+
+
+
+
+

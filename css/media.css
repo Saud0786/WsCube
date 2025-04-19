@@ -1,0 +1,72 @@
+
+@media only screen and (min-width:200px) and (max-width:575px){
+  .btn-outer{
+    position: fixed;
+    bottom: 15px;
+    left: 0px;
+    background-color: white;
+    padding: 5px 0px;
+    width: 100%;
+    justify-content: center !important;
+  }
+  .whatsappbtn,.call{
+    font-size: 14px;
+    padding: 7px 15px;
+  }
+  .bannerContent h1{
+    font-size: 28px !important;
+  }
+  .bannerContent p,.bannerContent ul li{
+    font-size: 16px !important;
+  }
+  .bannerContentbtn{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .bannerbtn{
+    width: 100%;
+  }
+  .bannerForm{
+    padding: 20px;
+  }
+  .section-content h1{
+  font-size: 30px !important;
+  }
+  .certificate-corner{
+    background: none !important;
+  }
+  
+  .cetificate-top{
+    background: url(../image/dot.png) no-repeat left top,
+    url(../image/Ellipse\ 94.png) no-repeat 370px 480px;
+     
+  }
+  .certificate-corner img{
+    width: 250px;
+  }
+  .marketing-section h1{
+      font-size: 32px !important;
+  }
+  .freeclassBtn{
+    background: linear-gradient(to right,#0ACEFE,#0f263b) !important;
+    height: 50px !important;
+    width: 200px !important;
+    font-size: 15px !important;
+    
+  }
+  .grow{
+    line-height:1 !important;
+ }
+ .company h2{
+   font-size: 20px !important;
+ }
+}
+
+
+@media (min-width: 1400px) {
+  .container,.container-lg, .container-md, .container-sm ,.container-xl,.container-xxl{
+      max-width: 1170px;
+  }
+}
+
